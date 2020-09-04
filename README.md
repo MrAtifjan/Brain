@@ -22,5 +22,5 @@
 
 # cd Brain
 
-#python2 Brain.py
+# python2 Brain.py
 
